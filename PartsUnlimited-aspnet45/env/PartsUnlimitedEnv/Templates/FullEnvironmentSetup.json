@@ -3,10 +3,10 @@
 	"contentVersion": "1.0.0.0",
 	"parameters": {
 		"WebsiteName": {
-			"value": "learn345project"
+			"type": "string"
 		},
 		"PUL_ServerName": {
-			"value": "learn345sqlproject"
+			"type": "string"
 		},
 		"PUL_DBLogin": {
 			"type": "string",
@@ -32,7 +32,7 @@
 			"defaultValue": "Basic"
 		},
 		"PUL_HostingPlanName": {
-			"value": "learn345planproject"
+			"type": "string"
 		},
 		"PUL_HostingPlanSKU": {
 			"type": "string",
